@@ -1,2 +1,3 @@
 # Spring-bulletin-board
-Bulletin board app with Spring backend and React frontend
+School project for course ID1212 Network programming. The running app can be accessed here(It might need to wake up before its accessible): http://id1212project.azurewebsites.net/
+The app is a simple bulletin board where users can create boards, set members, and add, edit and delete bulletin. The app consists of a React frontend, a Spring restful backend and an Azure db database. The backend makes use of Spring security and JWT to authenticate users. The backend comminicates with the database using Spring data JPA. The project was made by me, Richard Wallin, and fellow student Edvin Niemi.
